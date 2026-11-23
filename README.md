@@ -2,7 +2,7 @@
 
 # 🏰 Minas Tirith: My Homelab
 
-**A self-hosted Ubuntu server, a Wazuh SIEM watching every machine I own, and an Active Directory lab I build, attack and defend.**
+**A self-hosted Ubuntu server, a Wazuh SIEM watching every machine I own, and an Active Directory lab I build, attack, and defend.**
 
 ![Status](https://img.shields.io/badge/Status-Running-3B5D3A?style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
